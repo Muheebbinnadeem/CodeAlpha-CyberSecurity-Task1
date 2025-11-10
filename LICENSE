@@ -1,13 +1,2 @@
-
----
-
-## ✅ How to Use on GitHub
-1. Go to your repository → click **“Add file” → “Create new file” → name it `README.md`**  
-2. Paste the above text.  
-3. Commit the changes.  
-4. Optionally, in the repository sidebar → under **About**, paste this short description:
-   > “Python | CodeAlpha Cyber Security Internship Task 1 — Basic Network Sniffer using Scapy on Windows”
-
----
-
-Would you like me to create a **ready-to-upload README.md file (Markdown format)** so you can directly drop it into your GitHub repo?
+This project is for educational purposes only under the CodeAlpha Internship.
+Unauthorized network sniffing without consent is strictly prohibited.
